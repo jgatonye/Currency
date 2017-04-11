@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Rent Easy</string>
+    <string name="login">login</string>
+
+    <string-array name="rental_names">
+        <item>Classic</item>
+        <item>State House</item>
+        <item>Kasarani</item>
+        <item>South C</item>
+        <item>Nairobi West</item>
+        <item>Madaraka</item>
+    </string-array>
+</resources>

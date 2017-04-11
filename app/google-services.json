@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "568899870884",
+    "firebase_url": "https://rent-easy-62542.firebaseio.com",
+    "project_id": "rent-easy-62542",
+    "storage_bucket": "rent-easy-62542.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568899870884:android:2c3636b8fb811d60",
+        "android_client_info": {
+          "package_name": "com.example.john.renteasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568899870884-tige0odu3vln695ui3e60s8ge4j0hdpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.john.renteasy",
+            "certificate_hash": "19c90a6fe93fc946034f4f601dbdd25ab4be6e49"
+          }
+        },
+        {
+          "client_id": "568899870884-ug1js3kac4r0pdk5srikodacgb91tmcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByrVjJ3c7VmiNAnr4V7esr-IwfQDQlAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568899870884-ug1js3kac4r0pdk5srikodacgb91tmcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
